@@ -1,4 +1,7 @@
 :root {
-    --fist-color: #00192d
-    
+    --fist-color: #00192d;
+    --second-color: #E2E953;
+    --font-manrope: 'Manrope','sans-serif';
+    --font-size: 16px;
+
 }
